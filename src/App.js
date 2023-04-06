@@ -4,7 +4,7 @@ import "./App.css";
 import Header from "./layouts/Header";
 import Body from "./layouts/Body";
 import generateCodeList from "./core/generator";
-
+//que bola
 function App() {
   const [tables, setTables] = useState([
     { tableName: "Default", tableSnakeCaseName: "default", id: "df45j" },
